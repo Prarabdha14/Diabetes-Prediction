@@ -1,1 +1,5 @@
-This repository contains a machine learning model for predicting the onset of diabetes in patients based on various health indicators. The model utilizes Logistic Regression, a widely used classification algorithm, to classify individuals as either diabetic or non-diabetic.
+Key Features:
+
+Data Preprocessing: Includes data cleaning, handling missing values, and feature scaling for optimal model performance.
+Logistic Regression Model: Implements a Logistic Regression model using scikit-learn library.
+Model Evaluation: Evaluates model performance using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC.
