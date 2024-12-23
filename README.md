@@ -1,2 +1,1 @@
-# Diabetes-Prediction
-Logistic_regerssion_Machine_Learning
+This repository contains a machine learning model for predicting the onset of diabetes in patients based on various health indicators. The model utilizes Logistic Regression, a widely used classification algorithm, to classify individuals as either diabetic or non-diabetic.
